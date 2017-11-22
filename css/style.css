@@ -238,7 +238,7 @@ ol.type li a:hover {
 /* Contact Section */
 #contact {
 	padding: 0px 0 0px 0;
-	background: #262626;
+	/*background: #262626;*/
 }
 #contact h2 {
 	font-weight: 400;
